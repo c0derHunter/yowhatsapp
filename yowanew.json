@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "YoWhatsApp V9.11",
-      "code": 30,
+      "version": "YoWhatsApp V9.12",
+      "code": 32,
       "url": "https://t.me/yowaofficial",
-      "changelog": " - Mark as Opened/Seen for View Once! - Mass Message Sender (Broadcast to many groups/chats) - Fix status 5 minutes - Send images in Full Resolution - Read more"
+      "changelog": " - Fix Unread message counters don't disappear after being read - Fix Home blank - Fix entry chat - Fix archive counter - Fix anymore"
     }
    ]
   }
